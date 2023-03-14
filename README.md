@@ -20,6 +20,7 @@ Portfolio website created using React JS.
 MIT
 
 ## Screenshot
+[React App.webm](https://user-images.githubusercontent.com/113136342/225112646-f090ddae-51fa-4d78-a00c-ad4bf06c30ea.webm)
 
 ## Deployment
 
