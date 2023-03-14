@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pan-2/static/css/main.83923d9f.css",
+    "main.js": "/pan-2/static/js/main.77923fef.js",
+    "static/js/787.b8edcdcf.chunk.js": "/pan-2/static/js/787.b8edcdcf.chunk.js",
+    "static/media/a_night_in.png": "/pan-2/static/media/a_night_in.451523a1099192f5b6e0.png",
+    "static/media/banner.jpg": "/pan-2/static/media/banner.dfb5b4806812b0c81ca2.jpg",
+    "static/media/pawsandwhiskers.png": "/pan-2/static/media/pawsandwhiskers.df82dc081096b8d27fb1.png",
+    "static/media/Resume.pdf": "/pan-2/static/media/Resume.4b3eadbb44023f1adc3f.pdf",
+    "static/media/mypic.jpg": "/pan-2/static/media/mypic.a1bda2636f5bf99229b6.jpg",
+    "index.html": "/pan-2/index.html",
+    "main.83923d9f.css.map": "/pan-2/static/css/main.83923d9f.css.map",
+    "main.77923fef.js.map": "/pan-2/static/js/main.77923fef.js.map",
+    "787.b8edcdcf.chunk.js.map": "/pan-2/static/js/787.b8edcdcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83923d9f.css",
+    "static/js/main.77923fef.js"
+  ]
+}
